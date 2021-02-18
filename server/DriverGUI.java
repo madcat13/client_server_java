@@ -1,8 +1,5 @@
 /**
   * Driver class
-  * 
-  * @author Madcat13
-  * @version April 2020
   */
  // entry point to start the Server
  public class DriverGUI {
