@@ -1,6 +1,5 @@
 /**
    * Server GUI class
-   * @version April 2020
    */
   import javax.swing.*;
   import java.awt.*;
