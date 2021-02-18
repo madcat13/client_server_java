@@ -1,6 +1,5 @@
 /**
    * Server class
-   * @version April 2020
    */
   import java.io.*;
   import java.net.*;
