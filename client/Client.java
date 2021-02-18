@@ -7,8 +7,6 @@ import static java.lang.System.*;
 import java.text.SimpleDateFormat;
 /**
  * Client.java
- * @author  Madcat13
- * @version Apr 2020
  */
 
 public class Client {
