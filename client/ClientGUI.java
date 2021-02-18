@@ -9,8 +9,6 @@ import java.text.SimpleDateFormat;
 
 /**
  * ClientGUI.java
- * @author  Madcat13
- * @version April 2020
  */
 public class ClientGUI extends JFrame implements ActionListener, WindowListener {
 
