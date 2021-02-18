@@ -2,8 +2,6 @@ import java.util.*;
 
 /**
  * Messages class
- * @author Madcat13
- * @version April 2020
  */
 public class Messages {
     private ArrayList < String > messages;
